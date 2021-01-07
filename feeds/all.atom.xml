@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-07-01T00:00:00+05:30</updated><entry><title>First Post on my Blog</title><link href="/first-post-on-my-blog.html" rel="alternate"></link><published>2021-07-01T00:00:00+05:30</published><updated>2021-07-01T00:00:00+05:30</updated><author><name>Ishpreet</name></author><id>tag:None,2021-07-01:/first-post-on-my-blog.html</id><content type="html">&lt;h1&gt;I am On My Way To blogging&lt;/h1&gt;
+&lt;p&gt;This is my first test post on my new blog. &lt;/p&gt;</content><category term="misc"></category></entry></feed>
